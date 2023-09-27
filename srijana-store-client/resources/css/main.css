@@ -1,0 +1,68 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+    
+}
+ 
+#home-user{
+  display: inline-flex;
+  align-items: center;
+  
+}
+#home-user h4{
+  padding: 20px;
+  
+}
+#login-form form{
+    display: inline-block;
+    
+}
+#login-form div {
+     display: inline-block;
+    
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  #place-order  {
+    padding: 8px 16px;
+    margin-top: 8px;
+    float: right;
+
+}
+
+.table-details{
+  margin: 25px;
+
+}
+.product-img{
+  height: 50px;
+  width: 50px;
+}
+
+#logout-btn{
+  padding: 8px 16px;
+  height: 40px;
+
+}
+
+
+
+
+
+
+
+
+

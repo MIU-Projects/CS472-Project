@@ -1,0 +1,25 @@
+{
+  "name": "srijana-store-server",
+  "version": "1.0.0",
+  "description": "Project Shopping WAP CS472",
+  "main": "app .js",
+  "scripts": {
+    "start": "node app.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrijanaLama2/CS472-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SrijanaLama2/CS472-Project/issues"
+  },
+  "homepage": "https://github.com/SrijanaLama2/CS472-Project#readme"
+}
